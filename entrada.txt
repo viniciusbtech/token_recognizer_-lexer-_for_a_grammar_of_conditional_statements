@@ -1,0 +1,4 @@
+if x < 50 then
+    y = 20.5
+else
+    y = 30e-2
